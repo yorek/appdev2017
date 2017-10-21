@@ -10,6 +10,4 @@ https://www.slideshare.net/davidemauri/when-indexes-are-not-enough-81052977
 
 session recording is available on YouTube:
 
-https://www.youtube.com/watch?v=5me3_NdEqw0 
-
-
+https://www.youtube.com/watch?v=5me3_NdEqw0
