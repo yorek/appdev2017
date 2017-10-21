@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo1 - Stadium - RowByRow", "Demo1 - Stadium - RowByRow\Demo1 - Stadium - RowByRow.ssmssqlproj", "{8F50EB39-3489-473D-A1DA-2566372A15A5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo2 - Stadium - Benchmark", "Demo2 - Stadium - Benchmark\Demo2 - Stadium - Benchmark.ssmssqlproj", "{B3225C56-2B80-4B2A-9C61-3D0D9CE12134}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo3 - Stadium - SetBased", "Demo3 - Stadium - SetBased\Demo3 - Stadium - SetBased.ssmssqlproj", "{872E8424-B395-475D-AA97-9E16E88D3787}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo4 - Loans", "Demo4 - Loans\Demo4 - Loans.ssmssqlproj", "{EC9B85AA-16C1-4B8D-9DB1-E86559B1BC26}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo5 - Group Values", "Demo5 - Group Values\Demo5 - Group Values.ssmssqlproj", "{9330135A-AEC2-4A09-8088-0035CF416BE8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo6 - Stocks", "Demo6 - Stocks\Demo6 - Stocks.ssmssqlproj", "{31A99959-8EDD-4595-9D24-D7E5CEB184A9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo7 - Group Values 2", "Demo7 - Group Values 2\Demo7 - Group Values 2.ssmssqlproj", "{2CAD5281-DD78-4401-9837-0344F51F192E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012CFA63-68BC-4613-A218-B06D46614D47}.Default|Default.ActiveCfg = Default
+		{8F50EB39-3489-473D-A1DA-2566372A15A5}.Default|Default.ActiveCfg = Default
+		{B3225C56-2B80-4B2A-9C61-3D0D9CE12134}.Default|Default.ActiveCfg = Default
+		{872E8424-B395-475D-AA97-9E16E88D3787}.Default|Default.ActiveCfg = Default
+		{EC9B85AA-16C1-4B8D-9DB1-E86559B1BC26}.Default|Default.ActiveCfg = Default
+		{9330135A-AEC2-4A09-8088-0035CF416BE8}.Default|Default.ActiveCfg = Default
+		{31A99959-8EDD-4595-9D24-D7E5CEB184A9}.Default|Default.ActiveCfg = Default
+		{2CAD5281-DD78-4401-9837-0344F51F192E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
